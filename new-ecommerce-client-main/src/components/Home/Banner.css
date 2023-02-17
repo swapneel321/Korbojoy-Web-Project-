@@ -1,0 +1,13 @@
+.banner_text_part {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin-left: 40px;
+    color: white;
+    -webkit-animation: 1s slideDown 1s ease-in;
+    animation: 1s slideDown 1s ease-in;
+
+    -webkit-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in;
+
+}
